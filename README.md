@@ -1,2 +1,2 @@
 # resume_portfolio
-https://pprvrv.github.io/praktika/
+**РАЗРАБОТКА САЙТА ПО МАКЕТУ ДЛЯ КОМПАНИИ 5С-ПРОЕКТ ** https://pprvrv.github.io/praktika/
